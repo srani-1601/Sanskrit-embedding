@@ -1,9 +1,0 @@
-{
-  "embeddings": [
-    {
-      "tensorName": "English Sentence Embeddings",
-      "tensorPath": "https://raw.githubusercontent.com/srani-1601/Sanskrit-embedding/refs/heads/main/baseline_study/sentence_compare/english/vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/srani-1601/Sanskrit-embedding/refs/heads/main/baseline_study/sentence_compare/english/metadata.tsv"
-    }
-  ]
-}
